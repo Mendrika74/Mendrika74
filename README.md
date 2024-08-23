@@ -1,4 +1,4 @@
-## 👋 Hi, I'm [Your Name]
+## 👋 Hi, I'm Mendrika Rakotomalala
 
 I'm a Fullstack JavaScript Developer with 4 years of experience building and maintaining web and mobile applications. In addition to my development skills, I also specialize in system and server administration, ensuring that applications are deployed and maintained in a secure and efficient environment.
 
@@ -49,8 +49,7 @@ I am constantly expanding my knowledge and keeping up-to-date with the latest tr
 
 ## 📫 How to reach me
 
-- **LinkedIn**: [Your LinkedIn Profile](#)
-- **Email**: [Your Email Address](mailto:your.email@example.com)
+- **Email**: [Your Email Address](mailto:ainarakotomalala227@gmail.com)
 
 Feel free to reach out for collaborations, discussions, or just to connect!
 
