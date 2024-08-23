@@ -49,7 +49,7 @@ I am constantly expanding my knowledge and keeping up-to-date with the latest tr
 
 ## 📫 How to reach me
 
-- **Email**: [Your Email Address](mailto:ainarakotomalala227@gmail.com)
+- **Email**: ainarakotomalala227@gmail.com(mailto:ainarakotomalala227@gmail.com)
 
 Feel free to reach out for collaborations, discussions, or just to connect!
 
